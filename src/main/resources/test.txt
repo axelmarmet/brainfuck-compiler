@@ -1,0 +1,5 @@
+if(vrai = 100){
+
+}else{
+    false
+}
